@@ -2,7 +2,7 @@ image: alpine:latest
 
 pages:
   stage: deploy
-  environment: Test
+  environment: Testing
   script:
   - echo 'Nothing to do...'
   artifacts:
